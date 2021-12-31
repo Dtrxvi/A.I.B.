@@ -8,7 +8,7 @@ from discord_components import *
 import datetime
 import math
 
-Token = "OTE5NTUzNjY3MjYxMTM2OTA2.YbXfFg.WMXN7ACSAKhSaxVxBJyrY8160rA"
+Token = ""
 
 client = commands.Bot(command_prefix = ".")
 
